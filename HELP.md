@@ -9,8 +9,8 @@ Para referencia considerar as seguintes seções:
 * [Containerizção de aplicações](https://www.docker.com/)
 * [Metricas e tracing de recursos](https://grafana.com/grafana/dashboards/)
 * [Project Lombok is a java library](https://projectlombok.org/)
-* [Java beans mapping](Project Lombok is a java library)
-* 
+* [Java beans mapping](https://github.com/Walmiruff/store-backend)
+
 ### Projeto
 
 O projeto construindo com padrão REST para consumo de um banco de dados de filmes (MySQL), nao conta com implementacao 

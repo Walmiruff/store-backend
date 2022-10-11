@@ -22,7 +22,7 @@ de desenvolvimento.
 ### Build e desenvolvimento
 Ferramentas e Sdks necessarias para build do projeto local.
 Java11 ,Xamp e Docker (caso usar o docker password:root no aplication.yml linha 11)
-na pasta raiz executar o comando: docker-compose up.
+na pasta raiz executar o comando: docker-compose up, executar aplicação como spring boot aplications no arquivo StoreApplication
 
 ### Recursos
 

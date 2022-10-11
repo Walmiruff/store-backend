@@ -13,6 +13,7 @@ import javax.persistence.*;
 @Entity
 @Builder
 public class Movie {
+    //TODO: CREATE NEW COLUMNS
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

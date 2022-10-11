@@ -38,6 +38,8 @@ public class MovieService {
 
     @Transactional // allow rollback when there is exception
     public Movie save(MoviePostRequestBody moviePostRequestBody) {
+        //TODO: Bugfix mapstruct return null
+     // return movieRepository.save(MovieMapper.INSTANCE.toMovie(moviePostRequestBody));
         return movieRepository.save(Movie.builder()
                         .name(moviePostRequestBody.getName())
                         .build());

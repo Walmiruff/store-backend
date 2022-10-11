@@ -1,0 +1,29 @@
+server:
+  error:
+    include-stacktrace: on_param
+
+spring:
+  application:
+    name: store
+  datasource:
+    url: jdbc:mysql://localhost:3306/store_db?createDatabaseIfNotExist=true
+    username: root
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info, health, metrics, prometheus
+  info:
+    env:
+      enabled: true
+
+info:
+  app: Teste Vega Solutions
+  website: https://www.linkedin.com/in/walmir-castro-83011869/
+  github: https://github.com/Walmiruff?tab=repositories

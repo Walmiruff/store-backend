@@ -5,11 +5,11 @@ Para referencia considerar as seguintes seções:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.7.4/maven-plugin/reference/html/)
-* [Ferramenta de monitoramento de recursos](https://prometheus.io/docs/introduction/overview/)
-* [Containerizção de aplicações](https://www.docker.com/)
-* [Metricas e tracing de recursos](https://grafana.com/grafana/dashboards/)
-* [Project Lombok is a java library](https://projectlombok.org/)
-* [Java beans mapping](https://mapstruct.org/)
+* [Ferramenta de monitoramento de recursos - Prometheus](https://prometheus.io/docs/introduction/overview/)
+* [Containerização de aplicações - Docker](https://www.docker.com/)
+* [Metricas e tracing de recursos - Grafana](https://grafana.com/grafana/dashboards/)
+* [Project Lombok is a java library - Lombok](https://projectlombok.org/)
+* [Java beans mapping - MapStruct](https://mapstruct.org/)
 
 ### Projeto
 

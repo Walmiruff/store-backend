@@ -9,7 +9,7 @@ Para referencia considerar as seguintes seções:
 * [Containerizção de aplicações](https://www.docker.com/)
 * [Metricas e tracing de recursos](https://grafana.com/grafana/dashboards/)
 * [Project Lombok is a java library](https://projectlombok.org/)
-* [Java beans mapping](https://github.com/Walmiruff/store-backend)
+* [Java beans mapping](https://mapstruct.org/)
 
 ### Projeto
 
